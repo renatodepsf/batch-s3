@@ -1,6 +1,6 @@
-# Spring Batch + S3
+# Spring Boot + Spring Batch + S3
 
-### Dependencias:
+### Dependencias Maven:
 
 - SQL Server
 ```
